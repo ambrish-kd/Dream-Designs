@@ -19,6 +19,6 @@ A landing page that is pleasing and minimal for an architecture and interior des
 
 **Server:** NULL
 
-## Authors
+## Author
 
 - [@ambrish-kd](https://github.com/ambrish-kd)
