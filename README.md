@@ -1,8 +1,6 @@
-
 # Dream Designs - Your Personality, Our Expertise
 
-A landing page that is pleasing and minimal for a architecture and interior design company named "Dream Designs" with the tagline "Your Personality, Our Expertise".
-
+A landing page that is pleasing and minimal for an architecture and interior design company named "Dream Designs" with the tagline "Your Personality, Our Expertise".
 
 ## Features
 
@@ -11,11 +9,9 @@ A landing page that is pleasing and minimal for a architecture and interior desi
 - Architectural Look
 - Responsive in nature
 
-
 ## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![screenshot-dream-design](https://github.com/ambrish-kd/Dream-Designs/assets/90711457/3d4381bf-d03e-48d2-8b4d-e6ed8ffd8fd7)
 
 ## Tech Stack
 
@@ -23,8 +19,6 @@ A landing page that is pleasing and minimal for a architecture and interior desi
 
 **Server:** NULL
 
-
 ## Authors
 
 - [@ambrish-kd](https://github.com/ambrish-kd)
-
